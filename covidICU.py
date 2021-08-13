@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import random
-from error import *
+
 
 
 TOKEN = 'YOUR TOKEN HERE'
