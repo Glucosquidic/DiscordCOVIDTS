@@ -28,7 +28,7 @@ async def on_message(message):
 
 
         try:
-            url = 'https://api.covidactnow.org/v2/state/{}.timeseries.json?apiKey=f0b833501f0542eeb5a1dbeb90b32ba6'.format(state)
+            url = 'https://api.covidactnow.org/v2/state/{}.timeseries.json?apiKey={}'.format(state, KEY)
             response = requests.get(url).json()
             data = pd.DataFrame(response['metricsTimeseries'])
             colors = ['blue', 'red', 'green', 'black', 'magenta', 'orange', 'firebrick']
