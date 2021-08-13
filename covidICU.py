@@ -7,8 +7,8 @@ import random
 from error import *
 
 
-TOKEN = 'ODc1NDcwOTE4MDYxODEzODYx.YRV_1A.55TT0OI2L9e4WPh85KkpfAD5NGQ'
-KEY = 'f0b833501f0542eeb5a1dbeb90b32ba6'
+TOKEN = 'YOUR TOKEN HERE'
+KEY = 'YOUR API KEY HERE'
 
 
 client = discord.Client()
