@@ -4,7 +4,7 @@ Upon user command in Discord, this bot pulls data from an API and graphs ICU Cap
 # Set-up
 
 Creating an account on the [COVID:Act Now](https://covidactnow.org/?s=28181703) website is very easy and is required to obtain the API key. 
-You will also need to obtain a Discord Developer Key after creating the Bot [instructions here](https://discordpy.readthedocs.io/en/stable/discord.html).
+You will also need to obtain a Discord Developer Token after creating the Bot [instructions here](https://discordpy.readthedocs.io/en/stable/discord.html).
 
 # Example
 
