@@ -10,7 +10,7 @@ You will also need to obtain a Discord Developer Key after creating the Bot [ins
 
 Input the two-letter abbreviation for the state of interest following using the command !COVID:
 
-[!Image](https://raw.githubusercontent.com/Glucosquidic/DiscordCOVIDTS/main/TEMP.PNG)
+![Image](https://raw.githubusercontent.com/Glucosquidic/DiscordCOVIDTS/main/TEMP.PNG)
 
 
 
